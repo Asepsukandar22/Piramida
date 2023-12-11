@@ -1,7 +1,7 @@
 public class App {
 
     public static void main(String[] args) {
-        int tinggi = 5; 
+        int tinggi = 10; 
         cetakPiramida(tinggi);
     }
     public static void cetakPiramida(int tinggi) {
